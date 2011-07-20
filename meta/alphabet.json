@@ -1,0 +1,438 @@
+{
+    "latin": [
+        ["0000", "024f"]
+    ],
+    "greek and coptic": [
+        ["0370", "03ff"]
+    ],
+    "cyrillic": [
+        ["0400", "04ff"]
+    ],
+    "cyrillic extension": [
+        ["0500", "052f"]
+    ],
+    "armenian": [
+        ["0530", "058f"]
+    ],
+    "hebrew": [
+        ["0590", "05ff"]
+    ],
+    "arabic": [
+        ["0600", "06ff"],
+        ["0750", "077f"]
+    ],
+    "syriac": [
+        ["0700", "074f"]
+    ],
+    "thaana": [
+        ["0780", "07bf"]
+    ],
+    "nko": [
+        ["07c0", "07ff"]
+    ],
+    "thaana": [
+        ["0780", "07bf"]
+    ],
+    "nko": [
+        ["07c0", "07ff"]
+    ],
+    "samaritan": [
+        ["0800", "083f"]
+    ],
+    "mandaic": [
+        ["0840", "085f"]
+    ],
+    "indic scripts:
+    "devanagari": [
+        ["0900", "097f"]
+    ],
+    "bengali": [
+        ["0980", "09ff"]
+    ],
+    "gurmukhi": [
+        ["0a00", "0a7f"]
+    ],
+    "gujarati": [
+        ["0a80", "0aff"]
+    ],
+    "oriya": [
+        ["0b00", "0b7f"]
+    ],
+    "tamil": [
+        ["0b80", "0bff"]
+    ],
+    "telugu": [
+        ["0c00", "0c7f"]
+    ],
+    "kannada": [
+        ["0c80", "0cff"]
+    ],
+    "malayalam": [
+        ["0d00", "0d7f"]
+    ],
+    "sinhala": [
+        ["0d80", "0dff"]
+    ],
+    "thai": [
+        ["0e00", "0e7f"]
+    ],
+    "lao": [
+        ["0e80", "0eff"]
+    ],
+    "tibetan": [
+        ["0f00", "0fff"]
+    ],
+    "myanmar": [
+        ["1000", "109f"]
+    ],
+    "georgian": [
+        ["10a0", "10ff"]
+    ],
+    "hangul jamo": [
+        ["1100", "11ff"]
+    ],
+    "ethiopic": [
+        ["1200", "137f"]
+    ],
+    "ethiopic supplement": [
+        ["1380", "139f"]
+    ],
+    "cherokee": [
+        ["13a0", "13ff"]
+    ],
+    "unified canadian aboriginal syllabics": [
+        ["1400", "167f"]
+    ],
+    "ogham": [
+        ["1680", "169f"]
+    ],
+    "runic": [
+        ["16a0", "16ff"]
+    ],
+    "philippine scripts:
+    "tagalog": [
+        ["1700", "171f"]
+    ],
+    "hanunoo": [
+        ["1720", "173f"]
+    ],
+    "buhid": [
+        ["1740", "175f"]
+    ],
+    "tagbanwa": [
+        ["1760", "177f"]
+    ],
+    "khmer": [
+        ["1780", "17ff"]
+    ],
+    "mongolian": [
+        ["1800", "18af"]
+    ],
+    "unified canadian aboriginal syllabics extended": [
+        ["18b0", "18ff"]
+    ],
+    "limbu": [
+        ["1900", "194f"]
+    ],
+    "tai le": [
+        ["1950", "197f"]
+    ],
+    "tai lue": [
+        ["1980", "19df"]
+    ],
+    "khmer symbols": [
+        ["19e0", "19ff"]
+    ],
+    "buginese": [
+        ["1a00", "1a1f"]
+    ],
+    "tai tham": [
+        ["1a20", "1aaf"]
+    ],
+    "balinese": [
+        ["1b00", "1b7f"]
+    ],
+    "sundanese": [
+        ["1b80", "1bbf"]
+    ],
+    "batak": [
+        ["1bc0", "1bff"]
+    ],
+    "lepcha": [
+        ["1c00", "1c4f"]
+    ],
+    "ol chiki": [
+        ["1c50", "1c7f"]
+    ],
+    "vedic extensions": [
+        ["1cd0", "1cff"]
+    ],
+    "phonetic extensions": [
+        ["1d00", "1d7f"]
+    ],
+    "phonetic extensions supplement": [
+        ["1d80", "1dbf"]
+    ],
+    "combining diacritical marks supplement": [
+        ["1dc0", "1dff"]
+    ],
+    "latin extended additional": [
+        ["1e00", "1eff"]
+    ],
+    "greek extended": [
+        ["1f00", "1fff"]
+    ],
+    "general punctuation": [
+        ["2000", "206f"]
+    ],
+    "superscripts and subscripts": [
+        ["2070", "209f"]
+    ],
+    "currency symbols": [
+        ["20a0", "20cf"]
+    ],
+    "combining diacritical marks for symbols": [
+        ["20d0", "20ff"]
+    ],
+    "letterlike symbols": [
+        ["2100", "214f"]
+    ],
+    "number forms": [
+        ["2150", "218f"]
+    ],
+    "arrows": [
+        ["2190", "21ff"]
+    ],
+    "mathematical operators": [
+        ["2200", "22ff"]
+    ],
+    "miscellaneous technical": [
+        ["2300", "23ff"]
+    ],
+    "control pictures": [
+        ["2400", "243f"]
+    ],
+    "optical character recognition": [
+        ["2440", "245f"]
+    ],
+    "enclosed alphanumerics": [
+        ["2460", "24ff"]
+    ],
+    "box drawing": [
+        ["2500", "257f"]
+    ],
+    "block elements": [
+        ["2580", "259f"]
+    ],
+    "geometric shapes": [
+        ["25a0", "25ff"]
+    ],
+    "miscellaneous symbols": [
+        ["2600", "26ff"]
+    ],
+    "dingbats": [
+        ["2700", "27bf"]
+    ],
+    "miscellaneous mathematical symbols-a": [
+        ["27c0", "27ef"]
+    ],
+    "supplemental arrows-a": [
+        ["27f0", "27ff"]
+    ],
+    "braille patterns": [
+        ["2800", "28ff"]
+    ],
+    "supplemental arrows-b": [
+        ["2900", "297f"]
+    ],
+    "miscellaneous mathematical symbols-b": [
+        ["2980", "29ff"]
+    ],
+    "supplemental mathematical operators": [
+        ["2a00", "2aff"]
+    ],
+    "miscellaneous symbols and arrows": [
+        ["2b00", "2bff"]
+    ],
+    "glagolitic": [
+        ["2c00", "2c5f"]
+    ],
+    "latin extended-c": [
+        ["2c60", "2c7f"]
+    ],
+    "coptic": [
+        ["2c80", "2cff"]
+    ],
+    "georgian supplement": [
+        ["2d00", "2d2f"]
+    ],
+    "tifinagh": [
+        ["2d30", "2d7f"]
+    ],
+    "ethiopic extended": [
+        ["2d80", "2ddf"]
+    ],
+    "cyrillic extended-a": [
+        ["2de0", "2dff"]
+    ],
+    "supplemental punctuation": [
+        ["2e00", "2e7f"]
+    ],
+    "east asian scripts and symbols:
+    "cjk radicals supplement": [
+        ["2e80", "2eff"]
+    ],
+    "kangxi radicals": [
+        ["2f00", "2fdf"]
+    ],
+    "ideographic description characters": [
+        ["2ff0", "2fff"]
+    ],
+    "cjk symbols and punctuation": [
+        ["3000", "303f"]
+    ],
+    "hiragana": [
+        ["3040", "309f"]
+    ],
+    "katakana": [
+        ["30a0", "30ff"]
+    ],
+    "bopomofo": [
+        ["3100", "312f"]
+    ],
+    "hangul compatibility jamo": [
+        ["3130", "318f"]
+    ],
+    "kanbun": [
+        ["3190", "319f"]
+    ],
+    "bopomofo extended": [
+        ["31a0", "31bf"]
+    ],
+    "cjk strokes": [
+        ["31c0", "31ef"]
+    ],
+    "katakana phonetic extensions": [
+        ["31f0", "31ff"]
+    ],
+    "enclosed cjk letters and months": [
+        ["3200", "32ff"]
+    ],
+    "cjk compatibility": [
+        ["3300", "33ff"]
+    ],
+    "cjk unified ideographs extension a": [
+        ["3400", "4dbf"]
+    ],
+    "yijing hexagram symbols": [
+        ["4dc0", "4dff"]
+    ],
+    "cjk unified ideographs": [
+        ["4e00", "9fff"]
+    ],
+    "yi syllables": [
+        ["a000", "a48f"]
+    ],
+    "yi radicals": [
+        ["a490", "a4cf"]
+    ],
+    "lisu": [
+        ["a4d0", "a4ff"]
+    ],
+    "vai": [
+        ["a500", "a63f"]
+    ],
+    "cyrillic extended-b": [
+        ["a640", "a69f"]
+    ],
+    "bamum": [
+        ["a6a0", "a6ff"]
+    ],
+    "modifier tone letters": [
+        ["a700", "a71f"]
+    ],
+    "latin extended-d": [
+        ["a720", "a7ff"]
+    ],
+    "syloti nagri": [
+        ["a800", "a82f"]
+    ],
+    "common indic number forms": [
+        ["a830", "a83f"]
+    ],
+    "phags-pa": [
+        ["a840", "a87f"]
+    ],
+    "saurashtra": [
+        ["a880", "a8df"]
+    ],
+    "devanagari extended": [
+        ["a8e0", "a8ff"]
+    ],
+    "kayah li": [
+        ["a900", "a92f"]
+    ],
+    "rejang": [
+        ["a930", "a95f"]
+    ],
+    "hangul jamo extended-a": [
+        ["a960", "a97f"]
+    ],
+    "javanese": [
+        ["a980", "a9df"]
+    ],
+    "cham": [
+        ["aa00", "aa5f"]
+    ],
+    "myanmar extended-a": [
+        ["aa60", "aa7f"]
+    ],
+    "tai viet": [
+        ["aa80", "aadf"]
+    ],
+    "ethiopic extended-a": [
+        ["ab00", "ab2f"]
+    ],
+    "meetei mayek": [
+        ["abc0", "abff"]
+    ],
+    "hangul syllables": [
+        ["ac00", "d7af"]
+    ],
+    "hangul jamo extended-b": [
+        ["d7b0", "d7ff"]
+    ],
+    "cjk compatibility ideographs": [
+        ["f900", "faff"]
+    ],
+    "alphabetic presentation forms": [
+        ["fb00", "fb4f"]
+    ],
+    "arabic presentation forms-a": [
+        ["fb50", "fdff"]
+    ],
+    "variation selectors": [
+        ["fe00", "fe0f"]
+    ],
+    "vertical forms": [
+        ["fe10", "fe1f"]
+    ],
+    "combining half marks": [
+        ["fe20", "fe2f"]
+    ],
+    "cjk compatibility forms": [
+        ["fe30", "fe4f"]
+    ],
+    "small form variants": [
+        ["fe50", "fe6f"]
+    ],
+    "arabic presentation forms-b": [
+        ["fe70", "feff"]
+    ],
+    "halfwidth and fullwidth forms": [
+        ["ff00", "ffef"]
+    ],
+    "specials": [
+        ["fff0", "ffff"]
+    ],
+}
