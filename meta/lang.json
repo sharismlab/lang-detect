@@ -1,15 +1,39 @@
 {
-    "de": 3,
-    "en": 3,
-    "es": 3,
-    "fr": 3,
-    "it": 3,
-    "ja": 1,
-    "nl": 3,
-    "pl": 3,
-    "pt": 3,
-    "ru": 3,
-    "zh_hans": 1,
-    "zh_hant": 1,
-    "zh_yue": 1
+    "de": ["latin"],
+    "en": ["latin"],
+    "es": ["latin"],
+    "fr": ["latin"],
+    "it": ["latin"],
+    "ja": [
+        "hiragana", "katakana", "katakana phonetic extensions",
+        "cjk radicals supplement", "cjk symbols and punctuation",
+        "cjk strokes", "enclosed cjk letters and months", "cjk compatibility",
+        "cjk unified ideographs extension a", "cjk unified ideographs",
+        "cjk compatibility ideographs", "cjk compatibility forms"
+    ],
+    "nl": ["latin"],
+    "pl": ["latin"],
+    "pt": ["latin"],
+    "ru": ["cyrillic"],
+    "zh_hans": [
+        "bopomofo", "bopomofo extended",
+        "cjk radicals supplement", "cjk symbols and punctuation",
+        "cjk strokes", "enclosed cjk letters and months", "cjk compatibility",
+        "cjk unified ideographs extension a", "cjk unified ideographs",
+        "cjk compatibility ideographs", "cjk compatibility forms"
+    ],
+    "zh_hant": [
+        "bopomofo", "bopomofo extended",
+        "cjk radicals supplement", "cjk symbols and punctuation",
+        "cjk strokes", "enclosed cjk letters and months", "cjk compatibility",
+        "cjk unified ideographs extension a", "cjk unified ideographs",
+        "cjk compatibility ideographs", "cjk compatibility forms"
+    ],
+    "zh_yue": [
+        "bopomofo", "bopomofo extended",
+        "cjk radicals supplement", "cjk symbols and punctuation",
+        "cjk strokes", "enclosed cjk letters and months", "cjk compatibility",
+        "cjk unified ideographs extension a", "cjk unified ideographs",
+        "cjk compatibility ideographs", "cjk compatibility forms"
+    ]
 }

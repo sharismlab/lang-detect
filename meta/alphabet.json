@@ -1,438 +1,746 @@
 {
-    "latin": [
-        ["0000", "024f"]
-    ],
-    "greek and coptic": [
-        ["0370", "03ff"]
-    ],
-    "cyrillic": [
-        ["0400", "04ff"]
-    ],
-    "cyrillic extension": [
-        ["0500", "052f"]
-    ],
-    "armenian": [
-        ["0530", "058f"]
-    ],
-    "hebrew": [
-        ["0590", "05ff"]
-    ],
-    "arabic": [
-        ["0600", "06ff"],
-        ["0750", "077f"]
-    ],
-    "syriac": [
-        ["0700", "074f"]
-    ],
-    "thaana": [
-        ["0780", "07bf"]
-    ],
-    "nko": [
-        ["07c0", "07ff"]
-    ],
-    "thaana": [
-        ["0780", "07bf"]
-    ],
-    "nko": [
-        ["07c0", "07ff"]
-    ],
-    "samaritan": [
-        ["0800", "083f"]
-    ],
-    "mandaic": [
-        ["0840", "085f"]
-    ],
-    "indic scripts:
-    "devanagari": [
-        ["0900", "097f"]
-    ],
-    "bengali": [
-        ["0980", "09ff"]
-    ],
-    "gurmukhi": [
-        ["0a00", "0a7f"]
-    ],
-    "gujarati": [
-        ["0a80", "0aff"]
-    ],
-    "oriya": [
-        ["0b00", "0b7f"]
-    ],
-    "tamil": [
-        ["0b80", "0bff"]
-    ],
-    "telugu": [
-        ["0c00", "0c7f"]
-    ],
-    "kannada": [
-        ["0c80", "0cff"]
-    ],
-    "malayalam": [
-        ["0d00", "0d7f"]
-    ],
-    "sinhala": [
-        ["0d80", "0dff"]
-    ],
-    "thai": [
-        ["0e00", "0e7f"]
-    ],
-    "lao": [
-        ["0e80", "0eff"]
-    ],
-    "tibetan": [
-        ["0f00", "0fff"]
-    ],
-    "myanmar": [
-        ["1000", "109f"]
-    ],
-    "georgian": [
-        ["10a0", "10ff"]
-    ],
-    "hangul jamo": [
-        ["1100", "11ff"]
-    ],
-    "ethiopic": [
-        ["1200", "137f"]
-    ],
-    "ethiopic supplement": [
-        ["1380", "139f"]
-    ],
-    "cherokee": [
-        ["13a0", "13ff"]
-    ],
-    "unified canadian aboriginal syllabics": [
-        ["1400", "167f"]
-    ],
-    "ogham": [
-        ["1680", "169f"]
-    ],
-    "runic": [
-        ["16a0", "16ff"]
-    ],
-    "philippine scripts:
-    "tagalog": [
-        ["1700", "171f"]
-    ],
-    "hanunoo": [
-        ["1720", "173f"]
-    ],
-    "buhid": [
-        ["1740", "175f"]
-    ],
-    "tagbanwa": [
-        ["1760", "177f"]
-    ],
-    "khmer": [
-        ["1780", "17ff"]
-    ],
-    "mongolian": [
-        ["1800", "18af"]
-    ],
-    "unified canadian aboriginal syllabics extended": [
-        ["18b0", "18ff"]
-    ],
-    "limbu": [
-        ["1900", "194f"]
-    ],
-    "tai le": [
-        ["1950", "197f"]
-    ],
-    "tai lue": [
-        ["1980", "19df"]
-    ],
-    "khmer symbols": [
-        ["19e0", "19ff"]
-    ],
-    "buginese": [
-        ["1a00", "1a1f"]
-    ],
-    "tai tham": [
-        ["1a20", "1aaf"]
-    ],
-    "balinese": [
-        ["1b00", "1b7f"]
-    ],
-    "sundanese": [
-        ["1b80", "1bbf"]
-    ],
-    "batak": [
-        ["1bc0", "1bff"]
-    ],
-    "lepcha": [
-        ["1c00", "1c4f"]
-    ],
-    "ol chiki": [
-        ["1c50", "1c7f"]
-    ],
-    "vedic extensions": [
-        ["1cd0", "1cff"]
-    ],
-    "phonetic extensions": [
-        ["1d00", "1d7f"]
-    ],
-    "phonetic extensions supplement": [
-        ["1d80", "1dbf"]
-    ],
-    "combining diacritical marks supplement": [
-        ["1dc0", "1dff"]
-    ],
-    "latin extended additional": [
-        ["1e00", "1eff"]
-    ],
-    "greek extended": [
-        ["1f00", "1fff"]
-    ],
-    "general punctuation": [
-        ["2000", "206f"]
-    ],
-    "superscripts and subscripts": [
-        ["2070", "209f"]
-    ],
-    "currency symbols": [
-        ["20a0", "20cf"]
-    ],
-    "combining diacritical marks for symbols": [
-        ["20d0", "20ff"]
-    ],
-    "letterlike symbols": [
-        ["2100", "214f"]
-    ],
-    "number forms": [
-        ["2150", "218f"]
-    ],
-    "arrows": [
-        ["2190", "21ff"]
-    ],
-    "mathematical operators": [
-        ["2200", "22ff"]
-    ],
-    "miscellaneous technical": [
-        ["2300", "23ff"]
-    ],
-    "control pictures": [
-        ["2400", "243f"]
-    ],
-    "optical character recognition": [
-        ["2440", "245f"]
-    ],
-    "enclosed alphanumerics": [
-        ["2460", "24ff"]
-    ],
-    "box drawing": [
-        ["2500", "257f"]
-    ],
-    "block elements": [
-        ["2580", "259f"]
-    ],
-    "geometric shapes": [
-        ["25a0", "25ff"]
-    ],
-    "miscellaneous symbols": [
-        ["2600", "26ff"]
-    ],
-    "dingbats": [
-        ["2700", "27bf"]
-    ],
-    "miscellaneous mathematical symbols-a": [
-        ["27c0", "27ef"]
-    ],
-    "supplemental arrows-a": [
-        ["27f0", "27ff"]
-    ],
-    "braille patterns": [
-        ["2800", "28ff"]
-    ],
-    "supplemental arrows-b": [
-        ["2900", "297f"]
-    ],
-    "miscellaneous mathematical symbols-b": [
-        ["2980", "29ff"]
-    ],
-    "supplemental mathematical operators": [
-        ["2a00", "2aff"]
-    ],
-    "miscellaneous symbols and arrows": [
-        ["2b00", "2bff"]
-    ],
-    "glagolitic": [
-        ["2c00", "2c5f"]
-    ],
-    "latin extended-c": [
-        ["2c60", "2c7f"]
-    ],
-    "coptic": [
-        ["2c80", "2cff"]
-    ],
-    "georgian supplement": [
-        ["2d00", "2d2f"]
-    ],
-    "tifinagh": [
-        ["2d30", "2d7f"]
-    ],
-    "ethiopic extended": [
-        ["2d80", "2ddf"]
-    ],
-    "cyrillic extended-a": [
-        ["2de0", "2dff"]
-    ],
-    "supplemental punctuation": [
-        ["2e00", "2e7f"]
-    ],
-    "east asian scripts and symbols:
-    "cjk radicals supplement": [
-        ["2e80", "2eff"]
-    ],
-    "kangxi radicals": [
-        ["2f00", "2fdf"]
-    ],
-    "ideographic description characters": [
-        ["2ff0", "2fff"]
-    ],
-    "cjk symbols and punctuation": [
-        ["3000", "303f"]
-    ],
-    "hiragana": [
-        ["3040", "309f"]
-    ],
-    "katakana": [
-        ["30a0", "30ff"]
-    ],
-    "bopomofo": [
-        ["3100", "312f"]
-    ],
-    "hangul compatibility jamo": [
-        ["3130", "318f"]
-    ],
-    "kanbun": [
-        ["3190", "319f"]
-    ],
-    "bopomofo extended": [
-        ["31a0", "31bf"]
-    ],
-    "cjk strokes": [
-        ["31c0", "31ef"]
-    ],
-    "katakana phonetic extensions": [
-        ["31f0", "31ff"]
-    ],
-    "enclosed cjk letters and months": [
-        ["3200", "32ff"]
-    ],
-    "cjk compatibility": [
-        ["3300", "33ff"]
-    ],
-    "cjk unified ideographs extension a": [
-        ["3400", "4dbf"]
-    ],
-    "yijing hexagram symbols": [
-        ["4dc0", "4dff"]
-    ],
-    "cjk unified ideographs": [
-        ["4e00", "9fff"]
-    ],
-    "yi syllables": [
-        ["a000", "a48f"]
-    ],
-    "yi radicals": [
-        ["a490", "a4cf"]
-    ],
-    "lisu": [
-        ["a4d0", "a4ff"]
-    ],
-    "vai": [
-        ["a500", "a63f"]
-    ],
-    "cyrillic extended-b": [
-        ["a640", "a69f"]
-    ],
-    "bamum": [
-        ["a6a0", "a6ff"]
-    ],
-    "modifier tone letters": [
-        ["a700", "a71f"]
-    ],
-    "latin extended-d": [
-        ["a720", "a7ff"]
-    ],
-    "syloti nagri": [
-        ["a800", "a82f"]
-    ],
-    "common indic number forms": [
-        ["a830", "a83f"]
-    ],
-    "phags-pa": [
-        ["a840", "a87f"]
-    ],
-    "saurashtra": [
-        ["a880", "a8df"]
-    ],
-    "devanagari extended": [
-        ["a8e0", "a8ff"]
-    ],
-    "kayah li": [
-        ["a900", "a92f"]
-    ],
-    "rejang": [
-        ["a930", "a95f"]
-    ],
-    "hangul jamo extended-a": [
-        ["a960", "a97f"]
-    ],
-    "javanese": [
-        ["a980", "a9df"]
-    ],
-    "cham": [
-        ["aa00", "aa5f"]
-    ],
-    "myanmar extended-a": [
-        ["aa60", "aa7f"]
-    ],
-    "tai viet": [
-        ["aa80", "aadf"]
-    ],
-    "ethiopic extended-a": [
-        ["ab00", "ab2f"]
-    ],
-    "meetei mayek": [
-        ["abc0", "abff"]
-    ],
-    "hangul syllables": [
-        ["ac00", "d7af"]
-    ],
-    "hangul jamo extended-b": [
-        ["d7b0", "d7ff"]
-    ],
-    "cjk compatibility ideographs": [
-        ["f900", "faff"]
-    ],
-    "alphabetic presentation forms": [
-        ["fb00", "fb4f"]
-    ],
-    "arabic presentation forms-a": [
-        ["fb50", "fdff"]
-    ],
-    "variation selectors": [
-        ["fe00", "fe0f"]
-    ],
-    "vertical forms": [
-        ["fe10", "fe1f"]
-    ],
-    "combining half marks": [
-        ["fe20", "fe2f"]
-    ],
-    "cjk compatibility forms": [
-        ["fe30", "fe4f"]
-    ],
-    "small form variants": [
-        ["fe50", "fe6f"]
-    ],
-    "arabic presentation forms-b": [
-        ["fe70", "feff"]
-    ],
-    "halfwidth and fullwidth forms": [
-        ["ff00", "ffef"]
-    ],
-    "specials": [
-        ["fff0", "ffff"]
-    ],
+    "c0 controls and basic latin": {
+        "n": 3,
+        "interval": ["0000", "007f"],
+        "lang": ["de", "en", "es", "fr", "it", "nl", "pl", "pt"]
+    },
+    "c1 controls and latin-1 supplement": {
+        "n": 3,
+        "interval": ["0080", "009f"],
+        "lang": ["de", "en", "es", "fr", "it", "nl", "pl", "pt"]
+    },
+    "latin extended-a": {
+        "n": 3,
+        "interval": ["0100", "017f"],
+        "lang": ["de", "en", "es", "fr", "it", "nl", "pl", "pt"]
+    },
+    "latin extended-b": {
+        "n": 3,
+        "interval": ["0180", "024f"],
+        "lang": ["de", "en", "es", "fr", "it", "nl", "pl", "pt"]
+    },
+    "ipa extensions": {
+        "n": -1,
+        "interval": ["0250", "02af"],
+        "lang": []
+    },
+    "spacing modifier letters": {
+        "n": -1,
+        "interval": ["02b0", "02ff"],
+        "lang": []
+    },
+    "combining diacritical marks": {
+        "n": -1,
+        "interval": ["0300", "036f"],
+        "lang": []
+    },
+    "greek and coptic": {
+        "n": -1,
+        "interval": ["0370", "03ff"],
+        "lang": ["el", "cop"]
+    },
+    "cyrillic": {
+        "n": -1,
+        "interval": ["0400", "04ff"],
+        "lang": ["ru", "mn", "tg", "ky", "kk"]
+    },
+    "cyrillic extension": {
+        "n": -1,
+        "interval": ["0500", "052f"],
+        "lang": ["ru", "mn", "tg", "ky", "kk"]
+    },
+    "armenian": {
+        "n": -1,
+        "interval": ["0530", "058f"],
+        "lang": ["hy"]
+    },
+    "hebrew": {
+        "n": -1,
+        "interval": ["0590", "05ff"],
+        "lang": ["he"]
+    },
+    "arabic": {
+        "n": -1,
+        "interval": ["0600", "06ff"],
+        "lang": ["ar"]
+    },
+    "syriac": {
+        "n": -1,
+        "interval": ["0700", "074f"],
+        "lang": ["syr", "tru"]
+    },
+    "arabic supplement": {
+        "n": -1,
+        "interval": ["0750", "077f"],
+        "lang": ["ar"]
+    },
+    "thaana": {
+        "n": -1,
+        "interval": ["0780", "07bf"],
+        "lang": ["dv"]
+    },
+    "nko": {
+        "n": -1,
+        "interval": ["07c0", "07ff"],
+        "lang": ["nkoo"]
+    },
+    "samaritan": {
+        "n": -1,
+        "interval": ["0800", "083f"],
+        "lang": ["sam", "he"]
+    },
+    "mandaic": {
+        "n": -1,
+        "interval": ["0840", "085f"],
+        "lang": ["mid", "myz"]
+    },
+    "devanagari": {
+        "n": -1,
+        "interval": ["0900", "097f"],
+        "lang": ["sa", "hi", "mr", "ne", "bhb", "kok", "bh", "mag", "kru", "new", "sd", "ks"]
+    },
+    "bengali": {
+        "n": -1,
+        "interval": ["0980", "09ff"],
+        "lang": ["bn"]
+    },
+    "gurmukhi": {
+        "n": -1,
+        "interval": ["0a00", "0a7f"],
+        "lang": []
+    },
+    "gujarati": {
+        "n": -1,
+        "interval": ["0a80", "0aff"],
+        "lang": []
+    },
+    "oriya": {
+        "n": -1,
+        "interval": ["0b00", "0b7f"],
+        "lang": []
+    },
+    "tamil": {
+        "n": -1,
+        "interval": ["0b80", "0bff"],
+        "lang": []
+    },
+    "telugu": {
+        "n": -1,
+        "interval": ["0c00", "0c7f"],
+        "lang": []
+    },
+    "kannada": {
+        "n": -1,
+        "interval": ["0c80", "0cff"],
+        "lang": []
+    },
+    "malayalam": {
+        "n": -1,
+        "interval": ["0d00", "0d7f"],
+        "lang": []
+    },
+    "sinhala": {
+        "n": -1,
+        "interval": ["0d80", "0dff"],
+        "lang": []
+    },
+    "thai": {
+        "n": -1,
+        "interval": ["0e00", "0e7f"],
+        "lang": []
+    },
+    "lao": {
+        "n": -1,
+        "interval": ["0e80", "0eff"],
+        "lang": []
+    },
+    "tibetan": {
+        "n": -1,
+        "interval": ["0f00", "0fff"],
+        "lang": []
+    },
+    "myanmar": {
+        "n": -1,
+        "interval": ["1000", "109f"],
+        "lang": []
+    },
+    "georgian": {
+        "n": -1,
+        "interval": ["10a0", "10ff"],
+        "lang": []
+    },
+    "hangul jamo": {
+        "n": -1,
+        "interval": ["1100", "11ff"],
+        "lang": []
+    },
+    "ethiopic": {
+        "n": -1,
+        "interval": ["1200", "137f"],
+        "lang": []
+    },
+    "ethiopic supplement": {
+        "n": -1,
+        "interval": ["1380", "139f"],
+        "lang": []
+    },
+    "cherokee": {
+        "n": -1,
+        "interval": ["13a0", "13ff"],
+        "lang": []
+    },
+    "unified canadian aboriginal syllabics": {
+        "n": -1,
+        "interval": ["1400", "167f"],
+        "lang": []
+    },
+    "ogham": {
+        "n": -1,
+        "interval": ["1680", "169f"],
+        "lang": []
+    },
+    "runic": {
+        "n": -1,
+        "interval": ["16a0", "16ff"],
+        "lang": []
+    },
+    "tagalog": {
+        "n": -1,
+        "interval": ["1700", "171f"],
+        "lang": []
+    },
+    "hanunoo": {
+        "n": -1,
+        "interval": ["1720", "173f"],
+        "lang": []
+    },
+    "buhid": {
+        "n": -1,
+        "interval": ["1740", "175f"],
+        "lang": []
+    },
+    "tagbanwa": {
+        "n": -1,
+        "interval": ["1760", "177f"],
+        "lang": []
+    },
+    "khmer": {
+        "n": -1,
+        "interval": ["1780", "17ff"],
+        "lang": []
+    },
+    "mongolian": {
+        "n": -1,
+        "interval": ["1800", "18af"],
+        "lang": []
+    },
+    "unified canadian aboriginal syllabics extended": {
+        "n": -1,
+        "interval": ["18b0", "18ff"],
+        "lang": []
+    },
+    "limbu": {
+        "n": -1,
+        "interval": ["1900", "194f"],
+        "lang": []
+    },
+    "tai le": {
+        "n": -1,
+        "interval": ["1950", "197f"],
+        "lang": []
+    },
+    "tai lue": {
+        "n": -1,
+        "interval": ["1980", "19df"],
+        "lang": []
+    },
+    "khmer symbols": {
+        "n": -1,
+        "interval": ["19e0", "19ff"],
+        "lang": []
+    },
+    "buginese": {
+        "n": -1,
+        "interval": ["1a00", "1a1f"],
+        "lang": []
+    },
+    "tai tham": {
+        "n": -1,
+        "interval": ["1a20", "1aaf"],
+        "lang": []
+    },
+    "balinese": {
+        "n": -1,
+        "interval": ["1b00", "1b7f"],
+        "lang": []
+    },
+    "sundanese": {
+        "n": -1,
+        "interval": ["1b80", "1bbf"],
+        "lang": []
+    },
+    "batak": {
+        "n": -1,
+        "interval": ["1bc0", "1bff"],
+        "lang": []
+    },
+    "lepcha": {
+        "n": -1,
+        "interval": ["1c00", "1c4f"],
+        "lang": []
+    },
+    "ol chiki": {
+        "n": -1,
+        "interval": ["1c50", "1c7f"],
+        "lang": []
+    },
+    "vedic extensions": {
+        "n": -1,
+        "interval": ["1cd0", "1cff"],
+        "lang": ["sa", "hi", "mr", "ne", "bhb", "kok", "bh", "mag", "kru", "new", "sd", "ks"]
+    },
+    "phonetic extensions": {
+        "n": -1,
+        "interval": ["1d00", "1d7f"],
+        "lang": []
+    },
+    "phonetic extensions supplement": {
+        "n": -1,
+        "interval": ["1d80", "1dbf"],
+        "lang": []
+    },
+    "combining diacritical marks supplement": {
+        "n": -1,
+        "interval": ["1dc0", "1dff"],
+        "lang": []
+    },
+    "latin extended additional": {
+        "n": 3,
+        "interval": ["1e00", "1eff"],
+        "lang": ["de", "en", "es", "fr", "it", "nl", "pl", "pt"]
+    },
+    "greek extended": {
+        "n": -1,
+        "interval": ["1f00", "1fff"],
+        "lang": []
+    },
+    "general punctuation": {
+        "n": -1,
+        "interval": ["2000", "206f"],
+        "lang": []
+    },
+    "superscripts and subscripts": {
+        "n": -1,
+        "interval": ["2070", "209f"],
+        "lang": []
+    },
+    "currency symbols": {
+        "n": -1,
+        "interval": ["20a0", "20cf"],
+        "lang": []
+    },
+    "combining diacritical marks for symbols": {
+        "n": -1,
+        "interval": ["20d0", "20ff"],
+        "lang": []
+    },
+    "letterlike symbols": {
+        "n": -1,
+        "interval": ["2100", "214f"],
+        "lang": []
+    },
+    "number forms": {
+        "n": -1,
+        "interval": ["2150", "218f"],
+        "lang": []
+    },
+    "arrows": {
+        "n": -1,
+        "interval": ["2190", "21ff"],
+        "lang": []
+    },
+    "mathematical operators": {
+        "n": -1,
+        "interval": ["2200", "22ff"],
+        "lang": []
+    },
+    "miscellaneous technical": {
+        "n": -1,
+        "interval": ["2300", "23ff"],
+        "lang": []
+    },
+    "control pictures": {
+        "n": -1,
+        "interval": ["2400", "243f"],
+        "lang": []
+    },
+    "optical character recognition": {
+        "n": -1,
+        "interval": ["2440", "245f"],
+        "lang": []
+    },
+    "enclosed alphanumerics": {
+        "n": -1,
+        "interval": ["2460", "24ff"],
+        "lang": []
+    },
+    "box drawing": {
+        "n": -1,
+        "interval": ["2500", "257f"],
+        "lang": []
+    },
+    "block elements": {
+        "n": -1,
+        "interval": ["2580", "259f"],
+        "lang": []
+    },
+    "geometric shapes": {
+        "n": -1,
+        "interval": ["25a0", "25ff"],
+        "lang": []
+    },
+    "miscellaneous symbols": {
+        "n": -1,
+        "interval": ["2600", "26ff"],
+        "lang": []
+    },
+    "dingbats": {
+        "n": -1,
+        "interval": ["2700", "27bf"],
+        "lang": []
+    },
+    "miscellaneous mathematical symbols-a": {
+        "n": -1,
+        "interval": ["27c0", "27ef"],
+        "lang": []
+    },
+    "supplemental arrows-a": {
+        "n": -1,
+        "interval": ["27f0", "27ff"],
+        "lang": []
+    },
+    "braille patterns": {
+        "n": -1,
+        "interval": ["2800", "28ff"],
+        "lang": []
+    },
+    "supplemental arrows-b": {
+        "n": -1,
+        "interval": ["2900", "297f"],
+        "lang": []
+    },
+    "miscellaneous mathematical symbols-b": {
+        "n": -1,
+        "interval": ["2980", "29ff"],
+        "lang": []
+    },
+    "supplemental mathematical operators": {
+        "n": -1,
+        "interval": ["2a00", "2aff"],
+        "lang": []
+    },
+    "miscellaneous symbols and arrows": {
+        "n": -1,
+        "interval": ["2b00", "2bff"],
+        "lang": []
+    },
+    "glagolitic": {
+        "n": -1,
+        "interval": ["2c00", "2c5f"],
+        "lang": []
+    },
+    "latin extended-c": {
+        "n": 3,
+        "interval": ["2c60", "2c7f"],
+        "lang": ["de", "en", "es", "fr", "it", "nl", "pl", "pt"]
+    },
+    "coptic": {
+        "n": -1,
+        "interval": ["2c80", "2cff"],
+        "lang": []
+    },
+    "georgian supplement": {
+        "n": -1,
+        "interval": ["2d00", "2d2f"],
+        "lang": []
+    },
+    "tifinagh": {
+        "n": -1,
+        "interval": ["2d30", "2d7f"],
+        "lang": []
+    },
+    "ethiopic extended": {
+        "n": -1,
+        "interval": ["2d80", "2ddf"],
+        "lang": []
+    },
+    "cyrillic extended-a": {
+        "n": -1,
+        "interval": ["2de0", "2dff"],
+        "lang": ["ru", "mn", "tg", "ky", "kk"]
+    },
+    "supplemental punctuation": {
+        "n": -1,
+        "interval": ["2e00", "2e7f"],
+        "lang": []
+    },
+    "cjk radicals supplement": {
+        "n": 1,
+        "interval": ["2e80", "2eff"],
+        "lang": ["ja", "zh_hans", "zh_hant", "zh_yue"]
+    },
+    "kangxi radicals": {
+        "n": 1,
+        "interval": ["2f00", "2fdf"],
+        "lang": ["ja", "zh_hans", "zh_hant", "zh_yue"]
+    },
+    "ideographic description characters": {
+        "n": -1,
+        "interval": ["2ff0", "2fff"],
+        "lang": []
+    },
+    "cjk symbols and punctuation": {
+        "n": 1,
+        "interval": ["3000", "303f"],
+        "lang": ["ja", "zh_hans", "zh_hant", "zh_yue"]
+    },
+    "hiragana": {
+        "n": 1,
+        "interval": ["3040", "309f"],
+        "lang": ["ja"]
+    },
+    "katakana": {
+        "n": 1,
+        "interval": ["30a0", "30ff"],
+        "lang": ["ja"]
+    },
+    "bopomofo": {
+        "n": 1,
+        "interval": ["3100", "312f"],
+        "lang": ["zh_hans", "zh_hant", "zh_yue"]
+    },
+    "hangul compatibility jamo": {
+        "n": -1,
+        "interval": ["3130", "318f"],
+        "lang": []
+    },
+    "kanbun": {
+        "n": -1,
+        "interval": ["3190", "319f"],
+        "lang": []
+    },
+    "bopomofo extended": {
+        "n": 1,
+        "interval": ["31a0", "31bf"],
+        "lang": ["zh_hans", "zh_hant", "zh_yue"]
+    },
+    "cjk strokes": {
+        "n": 1,
+        "interval": ["31c0", "31ef"],
+        "lang": ["ja"]
+    },
+    "katakana phonetic extensions": {
+        "n": 1,
+        "interval": ["31f0", "31ff"],
+        "lang": []
+    },
+    "enclosed cjk letters and months": {
+        "n": 1,
+        "interval": ["3200", "32ff"],
+        "lang": ["ja", "zh_hans", "zh_hant", "zh_yue"]
+    },
+    "cjk compatibility": {
+        "n": 1,
+        "interval": ["3300", "33ff"],
+        "lang": ["ja", "zh_hans", "zh_hant", "zh_yue"]
+    },
+    "cjk unified ideographs extension a": {
+        "n": 1,
+        "interval": ["3400", "4dbf"],
+        "lang": ["ja", "zh_hans", "zh_hant", "zh_yue"]
+    },
+    "yijing hexagram symbols": {
+        "n": -1,
+        "interval": ["4dc0", "4dff"],
+        "lang": []
+    },
+    "cjk unified ideographs": {
+        "n": 1,
+        "interval": ["4e00", "9fff"],
+        "lang": ["ja", "zh_hans", "zh_hant", "zh_yue"]
+    },
+    "yi syllables": {
+        "n": -1,
+        "interval": ["a000", "a48f"],
+        "lang": []
+    },
+    "yi radicals": {
+        "n": -1,
+        "interval": ["a490", "a4cf"],
+        "lang": []
+    },
+    "lisu": {
+        "n": -1,
+        "interval": ["a4d0", "a4ff"],
+        "lang": []
+    },
+    "vai": {
+        "n": -1,
+        "interval": ["a500", "a63f"],
+        "lang": []
+    },
+    "cyrillic extended-b": {
+        "n": -1,
+        "interval": ["a640", "a69f"],
+        "lang": ["ru", "mn", "tg", "ky", "kk"]
+    },
+    "bamum": {
+        "n": -1,
+        "interval": ["a6a0", "a6ff"],
+        "lang": []
+    },
+    "modifier tone letters": {
+        "n": -1,
+        "interval": ["a700", "a71f"],
+        "lang": []
+    },
+    "latin extended-d": {
+        "n": 3,
+        "interval": ["a720", "a7ff"],
+        "lang": ["de", "en", "es", "fr", "it", "nl", "pl", "pt"]
+    },
+    "syloti nagri": {
+        "n": -1,
+        "interval": ["a800", "a82f"],
+        "lang": []
+    },
+    "common indic number forms": {
+        "n": -1,
+        "interval": ["a830", "a83f"],
+        "lang": []
+    },
+    "phags-pa": {
+        "n": -1,
+        "interval": ["a840", "a87f"],
+        "lang": []
+    },
+    "saurashtra": {
+        "n": -1,
+        "interval": ["a880", "a8df"],
+        "lang": []
+    },
+    "devanagari extended": {
+        "n": -1,
+        "interval": ["a8e0", "a8ff"],
+        "lang": ["sa", "hi", "mr", "ne", "bhb", "kok", "bh", "mag", "kru", "new", "sd", "ks"]
+    },
+    "kayah li": {
+        "n": -1,
+        "interval": ["a900", "a92f"],
+        "lang": []
+    },
+    "rejang": {
+        "n": -1,
+        "interval": ["a930", "a95f"],
+        "lang": []
+    },
+    "hangul jamo extended-a": {
+        "n": -1,
+        "interval": ["a960", "a97f"],
+        "lang": []
+    },
+    "javanese": {
+        "n": -1,
+        "interval": ["a980", "a9df"],
+        "lang": []
+    },
+    "cham": {
+        "n": -1,
+        "interval": ["aa00", "aa5f"],
+        "lang": []
+    },
+    "myanmar extended-a": {
+        "n": -1,
+        "interval": ["aa60", "aa7f"],
+        "lang": []
+    },
+    "tai viet": {
+        "n": -1,
+        "interval": ["aa80", "aadf"],
+        "lang": []
+    },
+    "ethiopic extended-a": {
+        "n": -1,
+        "interval": ["ab00", "ab2f"],
+        "lang": []
+    },
+    "meetei mayek": {
+        "n": -1,
+        "interval": ["abc0", "abff"],
+        "lang": []
+    },
+    "hangul syllables": {
+        "n": -1,
+        "interval": ["ac00", "d7af"],
+        "lang": []
+    },
+    "hangul jamo extended-b": {
+        "n": -1,
+        "interval": ["d7b0", "d7ff"],
+        "lang": []
+    },
+    "cjk compatibility ideographs": {
+        "n": 1,
+        "interval": ["f900", "faff"],
+        "lang": ["ja", "zh_hans", "zh_hant", "zh_yue"]
+    },
+    "alphabetic presentation forms": {
+        "n": 1,
+        "interval": ["fb00", "fb4f"],
+        "lang": []
+    },
+    "arabic presentation forms-a": {
+        "n": -1,
+        "interval": ["fb50", "fdff"],
+        "lang": []
+    },
+    "variation selectors": {
+        "n": -1,
+        "interval": ["fe00", "fe0f"],
+        "lang": []
+    },
+    "vertical forms": {
+        "n": -1,
+        "interval": ["fe10", "fe1f"],
+        "lang": []
+    },
+    "combining half marks": {
+        "n": -1,
+        "interval": ["fe20", "fe2f"],
+        "lang": []
+    },
+    "cjk compatibility forms": {
+        "n": 1,
+        "interval": ["fe30", "fe4f"],
+        "lang": ["ja", "zh_hans", "zh_hant", "zh_yue"]
+    },
+    "small form variants": {
+        "n": -1,
+        "interval": ["fe50", "fe6f"],
+        "lang": []
+    },
+    "arabic presentation forms-b": {
+        "n": -1,
+        "interval": ["fe70", "feff"],
+        "lang": []
+    },
+    "halfwidth and fullwidth forms": {
+        "n": -1,
+        "interval": ["ff00", "ffef"],
+        "lang": []
+    },
+    "specials": {
+        "n": -1,
+        "interval": ["fff0", "ffff"],
+    }
 }
