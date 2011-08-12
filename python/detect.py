@@ -1,15 +1,19 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-#
 
-#
-# Detect the language for a small piece of unicode text
-#
+"""Module docstring.
+
+Detect the language for a small piece of unicode text.
+
+"""
 
 import os
 import re
 import codecs
 import math
 import json
+import sys
+import getopt
 
 class Alphabet():
     def __init__(self, json):
@@ -117,4 +121,29 @@ def detect(text):
     keys = sorted(sim.keys(), key=lambda ind: -sim[ind])
     return [(key, sim[key]) for key in keys]
 
-print detect(unicode(codecs.decode('民有、民治、民享', 'utf-8')))
+def main():
+    # parse command line options
+    try:
+        opts, args = getopt.getopt(sys.argv[1:], "h", ["help"])
+    except getopt.error, msg:
+        print msg
+        print "for help use --help"
+        sys.exit(2)
+    # process options
+    for o, a in opts:
+        if o in ("-h", "--help"):
+            print __doc__
+            sys.exit(0)
+    # process arguments
+    for arg in args:
+        print '==================================='
+        print arg
+        text = unicode(codecs.decode(arg, 'utf-8'))
+        guessings = detect(text)
+        for result in guessings:
+            lang, sim = result
+            print lang + ':' + str(sim)
+
+if __name__ == "__main__":
+    main()
+
