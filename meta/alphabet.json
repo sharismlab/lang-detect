@@ -6,7 +6,7 @@
     },
     "c1 controls and latin-1 supplement": {
         "n": 3,
-        "interval": ["0080", "009f"],
+        "interval": ["0080", "00ff"],
         "lang": ["de", "en", "es", "fr", "it", "nl", "pl", "pt"]
     },
     "latin extended-a": {
@@ -741,6 +741,6 @@
     },
     "specials": {
         "n": -1,
-        "interval": ["fff0", "ffff"],
+        "interval": ["fff0", "ffff"]
     }
 }
