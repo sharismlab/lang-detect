@@ -7,6 +7,8 @@ ehthumbs.db
 Icon?
 Thumbs.db
 
+dist/*
+
 prepare/de/*
 prepare/en/*
 prepare/es/*
