@@ -1,5 +1,0 @@
-setup.py
-python/lang_detect.egg-info/PKG-INFO
-python/lang_detect.egg-info/SOURCES.txt
-python/lang_detect.egg-info/dependency_links.txt
-python/lang_detect.egg-info/top_level.txt
