@@ -23,8 +23,9 @@ To get the language vector, we use feature articles on Wikipedia as corpus.
 
 ## Usage
 
-cd python
-python detect.py YOUR_SENTENCE_HERE
+cd to the project root
+
+bin/langdetect YOUR_SENTENCE_HERE
 
 
 

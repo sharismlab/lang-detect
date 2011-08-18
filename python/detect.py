@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-#
 
-"""Module docstring.
-
+"""
 Detect the language for a small piece of unicode text.
-
+Usage:
+    langdetect YOUR_SENTENCE
 """
 
 import os
@@ -73,7 +73,7 @@ def next_gram(gg):
                 yield gg.text[position:end]
     return gram
 
-f = codecs.open('../meta/alphabet.json', 'r', 'utf-8')
+f = codecs.open('meta/alphabet.json', 'r', 'utf-8')
 alphabet = Alphabet(json.loads(unicode(''.join(f.readlines()))))
 
 langs = ['de', 'en', 'es', 'fr', 'it', 'ja', 'nl', 'pl', 'ru',
@@ -82,7 +82,7 @@ langs = ['de', 'en', 'es', 'fr', 'it', 'ja', 'nl', 'pl', 'ru',
 vectors = {}
 for lang in langs:
     vectors[lang] = {}
-    f = codecs.open('../data/' + lang + '.txt', 'r', 'utf-8')
+    f = codecs.open('data/' + lang + '.txt', 'r', 'utf-8')
     for line in f:
         segs = line.split(', 0.')
         if len(segs) == 2:

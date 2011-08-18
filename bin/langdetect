@@ -1,0 +1,15 @@
+#!/bin/bash
+#
+# A wrapper for the python version of lang-detect
+#
+
+CUR="${BASH_SOURCE[0]}";
+if([ -h "${CUR}" ]) then
+  while([ -h "${CUR}" ]) do CUR=`readlink "${CUR}"`; done
+fi
+pushd . > /dev/null
+cd `dirname ${CUR}` > /dev/null
+CUR=`pwd`;
+popd  > /dev/null
+
+exec "python" "${CUR}/../python/detect.py" "$@"
