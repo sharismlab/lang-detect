@@ -1,6 +1,7 @@
 # lang-detect: a tool to detect language
 
-Detecting the language for a small piece of unicode text
+Detecting the language for a small piece of unicode text without any dependency
+to other libraries.
 
 Currently we support detecting de, en, es, fr, it, ja, nl, pl, ru, zh-hans,
 zh-hant, and zh-yue.
